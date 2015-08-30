@@ -4,7 +4,6 @@
 #  This tool ties together web archiving applications including Wayback,
 #   Heritrix, and Tomcat.
 #  Mat Kelly <wail@matkelly.com> 2013
-
 import wx
 import subprocess
 import shlex
