@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 #-*- coding:utf-8 -*-
-
 # Web Archiving Integration Layer (WAIL)
 #  This tool ties together web archiving applications including Wayback,
 #   Heritrix, and Tomcat.
